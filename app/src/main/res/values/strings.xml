@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Anime Perfect</string>
+
+    <string name="title_activity_video_player">VideoPlayer</string>
+
+    <string-array name="servers">
+        <item>STREAMANGO</item>
+        <item>ESTREAM</item>
+        <item>OLOAD</item>
+        <item>OPENLOAD</item>
+        <item>THEVIDEO</item>
+        <item>MP4UPLOAD</item>
+        <item>VIDSTREAMING</item>
+        <item>YOURUPLOAD</item>
+        <item>BESTREAM</item>
+    </string-array>
+
+    <string name="title_activity_video">Video</string>
+</resources>
